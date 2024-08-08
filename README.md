@@ -2,7 +2,8 @@
 
 Hello! I'm a dedicated Full Stack Web Developer passionate about creating seamless and intuitive digital experiences. With a strong foundation in both front-end and back-end technologies, I enjoy the challenge of developing comprehensive solutions that meet user needs and business objectives.
 
-##### Skills: C Programming, C++ Programming, Java, Python
+### Skills
+##### Core: C Programming, C++ Programming, Java, Python
 ##### Front-End: HTML, CSS, JavaScript, React JS, UI/UX Design [Figma]
 ##### Back-End: Code PHP, Laravel
 ###### Others: SQL Databases, NoSQL Databases, Flutter, API Development
