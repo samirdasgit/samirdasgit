@@ -6,7 +6,7 @@ Hello! I'm a dedicated Full Stack Web Developer passionate about creating seamle
 ### Core: C Programming, C++ Programming, Java, Python, HTML, CSS, JavaScript, React JS, UI/UX Design, Code PHP, Laravel
 ### Others: SQL & NoSQL Databases, Flutter, API Development
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/samirdasgit)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/samirdasgit) ### GitHub
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/samirdasgit)
 
