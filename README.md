@@ -6,6 +6,9 @@ Hello! I'm a dedicated Full Stack Web Developer passionate about creating seamle
 ### Core: C Programming, C++ Programming, Java, Python, HTML, CSS, JavaScript, React JS, UI/UX Design, Code PHP, Laravel
 ### Others: SQL & NoSQL Databases, Flutter, API Development
 
+#### Contact : Mobile: +91 9333 7222 34
+#### Contact : Email: samirdasit@outlook.com
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/samirdasgit)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/samirdasgit)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/iamsamirdas//)
