@@ -3,7 +3,7 @@
 Hello! I'm a dedicated Full Stack Web Developer passionate about creating seamless and intuitive digital experiences. With a strong foundation in both front-end and back-end technologies, I enjoy the challenge of developing comprehensive solutions that meet user needs and business objectives.
 
 ## Tools & Technologies
-### Core: C, C++, Java, Python, HTML, CSS, JavaScript, ReactJS, NodeJS, Code PHP, Laravel, Flutter, UI/UX Design, API Development, MySQL, MongoDB, Firebase & Deployment [cPanel, phpMyAdmin, FTP/SFTP, SSH, Git, WHM]
+### Core: C, C++, Java, Python, HTML, CSS, JavaScript, ReactJS, NodeJS, CodePHP, Laravel, Flutter, API Development, MySQL, MongoDB, Firebase & Deployment
 ## Contact Information
 ### Mobile: +91 9333 7222 34, Email: samirdasit@outlook.com
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/iamsamirdas//)&nbsp;
