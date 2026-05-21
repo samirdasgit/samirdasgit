@@ -11,7 +11,7 @@ I am a dedicated **Full Stack Web Developer** passionate about creating seamless
 *   **Development & Infrastructure:** API Development, Cloud Deployment
 
 ### **Professional & Social Networks**
-**Mobile:** [+91 9333 7222 34](tel:+919333722234), **Email:** [samirdasit@outlook.com](mailto:samirdasit@outlook.com), **Website:** [samirdas.co.in](https://samirdas.co.in/)
+**Mobile:** [+91 9333 7222 34](tel:+919333722234) **Email:** [samirdasit@outlook.com](mailto:samirdasit@outlook.com) **Website:** [samirdas.co.in](https://samirdas.co.in/)
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iamsamirdas/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"></a>
