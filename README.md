@@ -1,17 +1,57 @@
-![](https://pbs.twimg.com/media/GvzJAEha8AA5vA0?format=jpg&name=large)
+# Hello, I'm Samir Das 👋
 
-Hello! I'm a dedicated Full Stack Web Developer passionate about creating seamless and intuitive digital experiences. With a strong foundation in both front-end and back-end technologies, I enjoy the challenge of developing comprehensive solutions that meet user needs and business objectives.
+I am a dedicated **Full Stack Web Developer** passionate about creating seamless, efficient, and intuitive digital experiences. With a robust foundation spanning both front-end and back-end ecosystems, I specialize in architecting comprehensive solutions that perfectly align user needs with business objectives.
 
-## Tools & Technologies
-### Core: C, C++, Java, Python, HTML, CSS, JavaScript, ReactJS, NodeJS, CodePHP, Laravel, Flutter, API Development, MySQL, MongoDB, Firebase & Deployment
-## Contact Information
-### Mobile: +91 9333 7222 34, Email: samirdasit@outlook.com
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/iamsamirdas//)&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/IamSamirDas)&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/imsamirdas//)&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/IamSamirDas)&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/11140325/samir)&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/https://dev.to/samirdasgit)&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCuRYu5p0-0uL2WudQjUPJhw)&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/user/Less_Condition_952/)&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://samirdas.co.in/)
+---
+
+## 🛠️ Tools & Technologies
+
+### **Language & Frameworks**
+*   **Languages:** C, C++, Java, Python, HTML5, CSS3, JavaScript
+*   **Front-End:** ReactJS
+*   **Back-End:** NodeJS, PHP (Core PHP & Laravel)
+*   **Mobile:** Flutter
+
+### **Databases & DevOps**
+*   **Databases:** MySQL, MongoDB, Firebase
+*   **Development & Infrastructure:** API Development, Cloud Deployment
+
+---
+
+## 📱 Connect With Me
+
+### **Direct Contact**
+*   **Mobile:** [+91 9333 7222 34](tel:+919333722234)
+*   **Email:** [samirdasit@outlook.com](mailto:samirdasit@outlook.com)
+*   **Website:** [samirdas.co.in](https://samirdas.co.in/)
+
+### **Professional & Social Networks**
+<p align="left">
+  <a href="https://www.linkedin.com/in/iamsamirdas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
+  </a>&nbsp;
+  <a href="https://bsky.app/profile/samirdasit.bsky.social" target="_blank">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" height="35">
+  </a>&nbsp;
+  <a href="https://stackoverflow.com/users/11140325/samir" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" height="35">
+  </a>&nbsp;
+  <a href="https://dev.to/samirdasgit" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" height="35">
+  </a>&nbsp;
+  <a href="https://twitter.com/IamSamirDas" target="_blank">
+    <img src="https://img.shields.io/badge/X_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="35">
+  </a>&nbsp;
+  <a href="https://www.facebook.com/IamSamirDas" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="35">
+  </a>&nbsp;
+  <a href="https://www.instagram.com/imsamirdas/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="35">
+  </a>&nbsp;
+  <a href="https://www.youtube.com/channel/UCuRYu5p0-0uL2WudQjUPJhw" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" height="35">
+  </a>&nbsp;
+  <a href="https://www.reddit.com/user/Less_Condition_952/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" height="35">
+  </a>
+</p>
