@@ -2,30 +2,18 @@
 
 I am a dedicated **Full Stack Web Developer** passionate about creating seamless, efficient, and intuitive digital experiences. With a robust foundation spanning both front-end and back-end ecosystems, I specialize in architecting comprehensive solutions that perfectly align user needs with business objectives.
 
----
-
-## 🛠️ Tools & Technologies
-
-### **Language & Frameworks**
+### 🛠️ Tools & Technologies
 *   **Languages:** C, C++, Java, Python, HTML5, CSS3, JavaScript
 *   **Front-End:** ReactJS
 *   **Back-End:** NodeJS, PHP (Core PHP & Laravel)
 *   **Mobile:** Flutter
-
-### **Databases & DevOps**
 *   **Databases:** MySQL, MongoDB, Firebase
 *   **Development & Infrastructure:** API Development, Cloud Deployment
 
----
-
-## 📱 Connect With Me
-
-### **Direct Contact**
-*   **Mobile:** [+91 9333 7222 34](tel:+919333722234)
-*   **Email:** [samirdasit@outlook.com](mailto:samirdasit@outlook.com)
-*   **Website:** [samirdas.co.in](https://samirdas.co.in/)
-
 ### **Professional & Social Networks**
+**Mobile:** [+91 9333 7222 34](tel:+919333722234), **Email:** [samirdasit@outlook.com](mailto:samirdasit@outlook.com), **Website:** [samirdas.co.in](https://samirdas.co.in/)
+
+
 <p align="left">
   <a href="https://www.linkedin.com/in/iamsamirdas/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35">
